@@ -92,7 +92,7 @@ def f4(v_liste,l_lengde):
     if teller == 0:
         print('Det finnes ingen varer innen kategorien:',i_kategori)
     else:
-        print('Det eksisterer',teller,'antall varer innen denne kategorien')
+        print('\nDet eksisterer totalt',teller,'varer innen denne kategorien')
 
 
 
@@ -112,7 +112,7 @@ def f5(v_liste,l_lengde):
                     )
             teller = 1
 
-    if teller == 1:
+    if teller == 0:
         print('Det finnes ingen varer innen pris intervallet [100,200]kr')
 
 
