@@ -14,7 +14,7 @@ def innlesning():
             liste += [[vnr,betegnelse,pris,kategori,hylle]]
             vnr = varer.readline()
 
-        varer.close()
+        varer.close() 
         return liste
     
     except IOError:
