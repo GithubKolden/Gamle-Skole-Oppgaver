@@ -1,0 +1,5 @@
+1000,Telefon,150,Elektronikk,1
+2000,IPad,210,Elektronikk,2
+3000,Piano,280,Instrument,3
+4000,Tastatur,Elektronikk,4
+5000,Melon,50,Mat,5
